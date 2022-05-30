@@ -1,6 +1,6 @@
 ## Hi, I'm Page
 
-I’m a self-motivated Front-End engineer and an interdisciplinary learner. I attach importance to user experience and keeping code clean and readable. 
+I’m a self-motivated Front-End engineer and an interdisciplinary learner. I attach importance to user experience and keeping code clean and readable. I have 3+ years of graphic design experience, so I can deliver a design draft to a website perfectly.
 
 ### Currently Work With...
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
